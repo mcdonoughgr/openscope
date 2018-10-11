@@ -106,15 +106,6 @@ export default class AirportModel {
         this.icao = null;
 
         /**
-         * Flag for if an airport is a work in progress
-         *
-         * @property wip
-         * @type {boolean}
-         * @default null
-         */
-        this.wip = null;
-
-        /**
          * @property radio
          * @type
          * @default null
@@ -343,7 +334,6 @@ export default class AirportModel {
         this.name = _get(data, 'name', this.name);
         this.icao = _get(data, 'icao', this.icao).toLowerCase();
         this.level = _get(data, 'level', this.level);
-        this.wip = _get(data, 'wip', this.wip);
         // exit early if `position` doesn't exist in data. on app initialiazation, we loop through every airport
         // in the `airportLoadList` and instantiate a model for each but wont have the full data set until the
         // airport json file is loaded.
