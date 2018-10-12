@@ -16,6 +16,7 @@
 ### Enhancements & Refactors
 - [#1108](https://github.com/openscope/openscope/issues/1108) - Overhaul of KLAS
 - [#794](https://github.com/openscope/openscope/issues/794) - Bring KMIA back into compliance with the airport specs
+- [#1001](https://github.com/openscope/openscope/issues/1001) - Remove support for work-in-progress airports
 
 
 
