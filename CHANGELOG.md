@@ -1,5 +1,6 @@
 # 6.7.0 (November 1, 2018)
 ### New Features
+- [#1033](https://github.com/openscope/openscope/issues/1033) - Add support for overflights
 
 
 
@@ -13,6 +14,8 @@
 
 
 ### Enhancements & Refactors
+- [#1108](https://github.com/openscope/openscope/issues/1108) - Overhaul of KLAS
+- [#794](https://github.com/openscope/openscope/issues/794) - Bring KMIA back into compliance with the airport specs
 - [#1114](https://github.com/openscope/openscope/issues/1114) - Update broken link to "Airport documentation" in README.md
 - [#1115](https://github.com/openscope/openscope/issues/1115) - Update broken documentation links
 
