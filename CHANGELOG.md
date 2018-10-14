@@ -13,6 +13,8 @@
 
 
 ### Enhancements & Refactors
+- [#1114](https://github.com/openscope/openscope/issues/1114) - Update broken link to "Airport documentation" in README.md
+- [#1115](https://github.com/openscope/openscope/issues/1115) - Update broken documentation links
 
 
 
