@@ -17,6 +17,9 @@
 - [#1108](https://github.com/openscope/openscope/issues/1108) - Overhaul of KLAS
 - [#794](https://github.com/openscope/openscope/issues/794) - Bring KMIA back into compliance with the airport specs
 - [#1001](https://github.com/openscope/openscope/issues/1001) - Remove support for work-in-progress airports
+- [1123](https://github.com/openscope/openscope/issues/1123) - Make runway mandatory in "taxi" command
+- [#1112](https://github.com/openscope/openscope/issues/1112) - Cleanup of eslint errors and warnings
+- [#1138](https://github.com/openscope/openscope/issues/1138) - Remove contributors block from package.json
 
 
 

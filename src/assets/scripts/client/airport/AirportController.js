@@ -130,8 +130,6 @@ class AirportController {
         this._airportListToLoad = [];
         this.airports = {};
         this.current = null;
-
-        return;
     }
 
     /**
@@ -166,6 +164,7 @@ class AirportController {
 
         nextAirportModel.set(airportJson);
     }
+
     /**
      * Retrieve a specific `AirportModel` instance
      *
