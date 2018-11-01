@@ -16,8 +16,8 @@
 ### Enhancements & Refactors
 - [#1108](https://github.com/openscope/openscope/issues/1108) - Overhaul of KLAS
 - [#794](https://github.com/openscope/openscope/issues/794) - Bring KMIA back into compliance with the airport specs
-- [#1114](https://github.com/openscope/openscope/issues/1114) - Update broken link to "Airport documentation" in README.md
 - [#1115](https://github.com/openscope/openscope/issues/1115) - Update broken documentation links
+- [#1165](https://github.com/openscope/openscope/issues/1165) - Improve aircraft format documentation sources
 
 
 
