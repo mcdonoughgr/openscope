@@ -12,6 +12,7 @@
 
 
 ### Enhancements & Refactors
+- [#308](https://github.com/openscope/openscope/issues/308) - abstract Aircraft.getWind() to the AirportModel
 
 
 
